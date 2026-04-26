@@ -3,9 +3,6 @@
     "preview": {
       "android": {
         "buildType": "apk"
-      },
-      "pnpm": {
-        "frozenLockfile": false
       }
     }
   }
