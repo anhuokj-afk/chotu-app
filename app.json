@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "ab9f7e24-5cb8-40a3-b816-10fa79e7dd30"
+      }
+    },
+    "android": {
+      "package": "com.anshuman.chotuapp"
+    }
+  }
+}
