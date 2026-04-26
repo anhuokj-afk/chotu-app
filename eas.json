@@ -4,8 +4,8 @@
       "android": {
         "buildType": "apk"
       },
-      "env": {
-        "NPM_CONFIG_CHECK_FILES": "false"
+      "pnpm": {
+        "frozenLockfile": false
       }
     }
   }
